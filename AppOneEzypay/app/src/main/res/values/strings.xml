@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">AppOneEzypay</string>
+    <string name="input_one">Input One</string>
+    <string name="input_two">Input Two</string>
+    <string name="addition">Addition</string>
+    <string name="substraction">Substraction</string>
+</resources>

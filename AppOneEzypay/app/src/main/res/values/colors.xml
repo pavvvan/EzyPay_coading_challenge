@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#748B91</color>
+    <color name="colorPrimaryDark">#748B91</color>
+    <color name="colorAccent">#748B91</color>
+
+
+    <color name="btn_back">#CDD8DE</color>
+    <color name="et_back">#F3F3F3</color>
+
+
+</resources>
