@@ -2,8 +2,7 @@
 
 This repo is for Ezypay hiring process :
 
-
-#Solution
+# Solution
 
 Both app will be running on the diffrent process to communicate with the process we have to use IPC in android it can be handled by AIDL
 
@@ -20,4 +19,7 @@ In "AppTwoEzPay":
 
 Created a service component and exposed to service with api defined in AIDL 
 
-![](domo.gif)
+
+# App Demo:
+
+![](https://github.com/pavvvan/EzyPay_coading_challenge/blob/master/demo.gif)
